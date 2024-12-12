@@ -2,9 +2,15 @@
 
 ### Baixando Repositorio
 ```bash
-git clone https://github.com/Math-benites/docker-install-script.git . 
+git clone https://github.com/Math-benites/docker-install-script.git
 ```
-To install Docker , follow the steps below:
+### Acessando Repositorio
+
+```bash
+cd docker-install-script
+```
+
+Para instalar o Docker, siga os passos abaixo:
 
 #### Step 1: Tornando Executavel
 ```bash
